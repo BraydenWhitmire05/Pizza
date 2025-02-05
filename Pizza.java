@@ -8,7 +8,7 @@ public class Pizza {
 	
 	public Pizza() {
 		
-		
+		// if there is anything i missed could you give me feedback so I can fix it
 	}
 	
 	public Pizza(String name, int Cheese, int Sauce, double Price) {
